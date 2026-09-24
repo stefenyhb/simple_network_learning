@@ -1,0 +1,9 @@
+cat > README.md <<'EOF'
+# simple_network_learning
+#A feedforward neural network learning project implemented in CPP
+##file description
+- `fnn.cpp`：Core source code
+
+##Compile
+```bash
+g++ -std=c++17 -O2 fnn.cpp -o fnn
