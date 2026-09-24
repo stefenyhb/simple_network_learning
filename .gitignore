@@ -1,0 +1,13 @@
+# 编译产物
+fnn
+fnn_asan
+*.o
+*.out
+*.exe
+
+# 编辑器
+.vscode/
+.idea/
+
+# 系统文件
+.DS_Store
